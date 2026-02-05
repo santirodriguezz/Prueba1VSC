@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, Hola me llamo Santiago");
+        System.out.println(" Hola me llamo Santiago");
 
         Scanner entrada = new Scanner(System.in);
         int notas=5;
